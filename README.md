@@ -5,5 +5,4 @@ Repositorio criado para Desafio de Projeto
 [Sintaxes Basica MarkDown](http://www.markdownguide.org/basic-syntax/)
 
 ##links  git-bash
-[Sintax basica  Git-bash] (https://git-scm.com/)
-
+[Sintaxsica  GtBash] (http://www.git-scm.com)
